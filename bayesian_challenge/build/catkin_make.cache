@@ -1,0 +1,2 @@
+jsk_mbzirc_tasks:kuri_mbzirc_sim-master:tum_ardrone:tum_simulator/cvg_sim_gazebo:tum_simulator/cvg_sim_gazebo_plugins:tum_simulator/cvg_sim_msgs:tum_simulator/message_to_tf:tum_simulator/tum_simulator
+-DCATKIN_DEVEL_PREFIX=/home/aravind/bayesian_challenge/devel -DCMAKE_INSTALL_PREFIX=/home/aravind/bayesian_challenge/install -G Unix Makefiles

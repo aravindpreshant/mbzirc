@@ -1,0 +1,8 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/run_tests_jsk_mbzirc_tasks_rostest_test_jsk_mbzirc_task_2.test"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/run_tests_jsk_mbzirc_tasks_rostest_test_jsk_mbzirc_task_2.test.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "jsk_mbzirc_tasks")
+set(jsk_mbzirc_tasks_MAINTAINER "Xiangyu Chen <xychen@jsk.imi.i.u-tokyo.ac.jp>, Moju Zhao <bakui@jsk.imi.i.u-tokyo.ac.jp>")
+set(jsk_mbzirc_tasks_DEPRECATED "")
+set(jsk_mbzirc_tasks_VERSION "1.0.1")
+set(jsk_mbzirc_tasks_BUILD_DEPENDS "roscpp" "jsk_mbzirc_common")
+set(jsk_mbzirc_tasks_RUN_DEPENDS "jsk_mbzirc_common" "jsk_rviz_plugins" "teleop_twist_keyboard" "hector_quadrotor_gazebo" "husky_gazebo" "husky_ur5_moveit_config" "moveit_commander" "rviz")
+set(jsk_mbzirc_tasks_BUILDTOOL_DEPENDS "catkin")

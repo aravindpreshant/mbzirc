@@ -1,0 +1,8 @@
+prefix=/home/aravind/bayesian_challenge/install
+
+Name: jsk_mbzirc_tasks
+Description: Description of jsk_mbzirc_tasks
+Version: 1.0.1
+Cflags: 
+Libs: -L/home/aravind/bayesian_challenge/install/lib 
+Requires: 

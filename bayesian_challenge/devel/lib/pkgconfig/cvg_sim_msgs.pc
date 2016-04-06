@@ -1,0 +1,8 @@
+prefix=/home/aravind/bayesian_challenge/devel
+
+Name: cvg_sim_msgs
+Description: Description of cvg_sim_msgs
+Version: 0.0.0
+Cflags: -I/home/aravind/bayesian_challenge/devel/include
+Libs: -L/home/aravind/bayesian_challenge/devel/lib 
+Requires: message_runtime
